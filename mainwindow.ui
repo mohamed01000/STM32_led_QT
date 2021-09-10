@@ -50,7 +50,20 @@
      </rect>
     </property>
     <property name="text">
-     <string>LED</string>
+     <string>LED 1</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="radioButton">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>160</y>
+      <width>95</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>LED 2</string>
     </property>
    </widget>
   </widget>
