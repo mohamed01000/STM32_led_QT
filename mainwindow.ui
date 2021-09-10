@@ -24,20 +24,20 @@
      </rect>
     </property>
     <property name="text">
-     <string>TextLabel</string>
+     <string>Label</string>
     </property>
    </widget>
    <widget class="QLabel" name="lblButon">
     <property name="geometry">
      <rect>
-      <x>110</x>
+      <x>310</x>
       <y>100</y>
       <width>55</width>
       <height>16</height>
      </rect>
     </property>
     <property name="text">
-     <string>LblButton</string>
+     <string>Button</string>
     </property>
    </widget>
    <widget class="QRadioButton" name="rbLED">
@@ -60,7 +60,7 @@
      <x>0</x>
      <y>0</y>
      <width>800</width>
-     <height>26</height>
+     <height>21</height>
     </rect>
    </property>
   </widget>
